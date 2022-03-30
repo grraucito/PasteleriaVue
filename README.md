@@ -1,4 +1,4 @@
-# vuex-launchx
+# Pasteleria Katsura Vue
 
 ## Project setup
 ```
